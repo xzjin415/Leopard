@@ -1,7 +1,6 @@
 first commit.
-<<<<<<< HEAD
+
 commit from dev1.
-=======
 
 changed by Leo Jin.
->>>>>>> refs/remotes/origin/master
+merge completed.
